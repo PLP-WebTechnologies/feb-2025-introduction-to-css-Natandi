@@ -1,0 +1,47 @@
+/*different fonts*/
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  letter-spacing: 0;
+  font-size: 16px;
+}
+/*color*/
+h1 {
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+}
+/* element selector*/
+footer {
+  background-color: #333;
+  color: #fff;
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+}
+/* margin and padding*/
+p {
+  margin: 0;
+  padding: 20px;
+}
+/* styled an image*/
+.image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+  border: #333 solid 1px;
+}
+/* ID selector*/
+#container {
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
